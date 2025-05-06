@@ -28,3 +28,11 @@ This project analyzes sales data from 2019 to uncover trends, product performanc
    pip install pandas matplotlib seaborn jupyter
    jupyter notebook
    Open data_analysis_assignment.ipynb.
+
+   
+---
+
+### Notes:
+1. Replace `your-username` in the installation section with your actual GitHub username.
+2. Add visualization images to an `images/` folder in your repository for the figures to display correctly.
+3. Customize the license and contributing sections as needed.
